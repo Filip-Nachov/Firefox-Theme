@@ -1,10 +1,10 @@
-This is a simple firefox theme that includes just the basic needed things for a better firefox experience it also includes a user.js file using betterfox
+This is a simple Firefox theme that includes just the basic needed things for a better Firefox experience it also includes a user.js file using Betterfox
 
 <br>
 <hr>
-The theme was made by [Eric Murphy](https://github.com/ericmurphyxyz) and the original theme isin his github profile. While the user.js file is a code from BetterFox which can be found on github
+The theme was made by Eric Murphy (his GitHub 👉https://github.com/ericmurphyxyz) and the original theme is in his GitHub profile. The user.js file is a code from BetterFox which can be found on GitHub
 
-also I disclaimer I put betterfox in here not becuase its a part of the theme but because it isa good security resourse to make your browser and browsing experience more private but you can easily remove it yourself if you dont want it 
+also, a disclaimer I put BetterFox in here not because it is a part of the theme but because it is a good security resource to make your browser and browsing experience more private you can easily remove it yourself if you do not want it 
 
 Screenshot of the theme:
 
