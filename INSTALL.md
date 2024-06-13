@@ -1,7 +1,7 @@
 To install this you need two things:
 
 ```GitHub```: which I am guessing you already have <br>
-```Git```: we will use git as a better way to install and implement this but you do not have to because I will show a way to not use GitHub 
+```Git```: we will use git as a better way to install and implement this but you do not have to because I will show a way to not use Git and still make the configuration
 
 
 <hr>
