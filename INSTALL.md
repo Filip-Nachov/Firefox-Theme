@@ -1,11 +1,13 @@
 To install this you need two things:
 
-```GitHub```: which I am guessing you already have 
-```Git```: we will use git as a better way to install and implement this but you dont have to because I will show a way to not use github 
+```GitHub```: which I am guessing you already have <br>
+```Git```: we will use git as a better way to install and implement this but you do not have to because I will show a way to not use GitHub 
 
 
 <hr>
 
+DISCLAIMER:
+ - Before anything enable the option `toolkit.legacyUserProfileCustomizations.stylesheets` from your `about:config` if you haven't already
 
 ## Installation with Git
 
